@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.applovin:applovin-sdk:13.0.1" />
+        <androidPackage spec="com.google.android.ump:user-messaging-platform:2.+" />
+        <androidpackage spec="com.google.android.gms:play-services-ads-identifier:18.0.1" />
+        <androidpackage spec="com.google.android.gms:play-services-appset:16.0.2" />
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AppLovinSDK" version="13.0.1" />
+        <iosPod name="GoogleUserMessagingPlatform" version="~&gt; 2.1" />
+    </iosPods>
+</dependencies>

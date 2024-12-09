@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 2d5baca3431a25941bbc44d1cd486407
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tazugane Gothic StdN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0c93bf0e4e406e4f899054561c3d531, type: 3}
+  - {fileID: 12800000, guid: da9f219d766cbe644843342bf51197c3, type: 3}
+  - {fileID: 12800000, guid: 5651fa50961b84349b154713fe18a40a, type: 3}
+  - {fileID: 12800000, guid: 0306ea45c1bebb74c8177343d43abb8f, type: 3}
+  - {fileID: 12800000, guid: 4b7b9ca203ebfe64596a6e529792ad50, type: 3}
+  - {fileID: 12800000, guid: 7c0d8e9a148dec547aa2be1e505c0ef7, type: 3}
+  - {fileID: 12800000, guid: a698de68511a3b144b6efe09ad120789, type: 3}
+  - {fileID: 12800000, guid: 03c52dfb2b271704da374effdc724a63, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

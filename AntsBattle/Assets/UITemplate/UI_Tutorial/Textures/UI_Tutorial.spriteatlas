@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Tutorial
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4aa12318d628e864cab4a74d38d323af, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1d832c50e0118934089e91dddb71cbf4, type: 3}
+  - {fileID: 21300000, guid: 5e0a3182f44c30c43850e053762216b4, type: 3}
+  - {fileID: 21300000, guid: 5168e7c6d2ea4c7459aaf48a509227b5, type: 3}
+  - {fileID: 21300000, guid: 9537a15714e13034999c0aba0d7a48a1, type: 3}
+  - {fileID: 21300000, guid: 2e9bfa8762690204c8709e1d2b85b805, type: 3}
+  - {fileID: 21300000, guid: e69b7708e5e450645b7f457ae76bcd32, type: 3}
+  - {fileID: 21300000, guid: fcb0035a8deb2a44da8be2d368f35c47, type: 3}
+  - {fileID: 21300000, guid: 55755e4c4204cf04585d150b6a6e1195, type: 3}
+  - {fileID: 21300000, guid: d2f4e01d51f85684b9e8d79b46840f16, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - COM_IMG_Next
+  - COM_IMG_Retry
+  - COM_IMG_Arrow
+  - COM_IMG_ArrowLR
+  - COM_EFF_Ring
+  - COM_EFF_Touch
+  - COM_IMG_Hand
+  - COM_IMG_Operation
+  - COM_EFF_Circle
+  m_RenderDataMap: {}
+  m_Tag: UI_Tutorial
+  m_IsVariant: 0
